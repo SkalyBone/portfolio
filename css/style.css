@@ -886,6 +886,7 @@ p{
 
     .about .about-content .education,
     .about .about-content .experience,
+    .about .about-content .personal-info .info-item,
     .home .home-info {
         flex: 0 0 100%;
         max-width: 100%;
