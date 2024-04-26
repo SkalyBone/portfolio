@@ -362,7 +362,9 @@ h3.my-profession {
     margin: 15px 0;
 }
 
-
+#presentation{
+    text-align: justify;
+}
 
 .typing {
     color: var(--skin-color);
