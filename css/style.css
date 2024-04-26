@@ -361,6 +361,10 @@ h3.my-profession {
     margin: 15px 0;
 }
 
+.home-info p{
+    text-align: justify;
+}
+
 .typing {
     color: var(--skin-color);
 }
@@ -437,6 +441,7 @@ h3.my-profession {
 .about .about-content .about-text p {
     font-size: 16px;
     line-height: 25px;
+    text-align: justifys;
     color: var(--text-black-700);
 }
 
@@ -900,7 +905,8 @@ h3.my-profession {
     .about .about-content .education,
     .about .about-content .experience,
     .about .about-content .skills,
-    .about .about-content .personal-info {
+    .about .about-content .personal-info,
+    .about .about-content .personal-info .info-item {
         flex: 0 0 100%;
         max-width: 100%;
     }

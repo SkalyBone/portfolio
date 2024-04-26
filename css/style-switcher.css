@@ -39,10 +39,11 @@
 
 .style-switcher .style-switcher-toggler{
     top: 0;
+    display: none;
 }
 
 .style-switcher .day-night{
-    top: 55px;
+    top: 0;
 
 }
 
